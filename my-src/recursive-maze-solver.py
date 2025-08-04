@@ -148,8 +148,8 @@ maze4 = [
     "           ",
     "    S      ",
 ]
-# solve(maze1, wall, start, end)
-# solve(maze2, wall, start, end)
-# solve(maze3, wall, start, end)
-# solve(maze3, wall, start, end)
+solve(maze1, wall, start, end)
+solve(maze2, wall, start, end)
+solve(maze3, wall, start, end)
+solve(maze3, wall, start, end)
 solve(maze4, wall, start, end)
